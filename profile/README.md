@@ -23,7 +23,7 @@ Trusted by startups, small businesses, and individuals for practical digital sol
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=lua,java,python,cs,cpp,c,react,js,ts,nodejs,html,css,xml,mysql,mongodb,php,androidstudio,figma,cloudflare,blender,unrealengine,git)
+![Skills](https://skillicons.dev/icons?i=lua,java,python,cs,cpp,c,react,js,ts,nodejs,html,css,mysql,mongodb,php,androidstudio,figma,cloudflare,blender,unrealengine,git)
 
 ---
 
