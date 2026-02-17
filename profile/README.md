@@ -1,0 +1,40 @@
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&vCenter=true&width=435&height=150&lines=Hey+There!;I+m+Codex+;A+full+Stack+FiveM+%26+Web+Developer)](https://git.io/typing-svg)
+
+## My Skills and Tools I use
+![My Skills](https://skillicons.dev/icons?i=discordjs,js,ts,html,css,nodejs,jquery,bootstrap,mongodb,php,cloudflare,ps,vscode,discord,git)
+
+
+<!--
+**codex-gaming26/codex-gaming26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<a href="https://github.com/codex-gaming26/"><img alt="Codex Github Stats" src="https://github-readme-stats.vercel.app/api?username=codex-gaming26&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=29c785&icon_color=29c785"/></a>
+<br/>
+
+<a href="https://github.com/codex-gaming26/"><img alt="Codex Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex-gaming26&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=29c785&icon_color=29c785"/></a>
+<br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codex-gaming26&bg_color=0d1117&color=29c785&line=29c785&point=d4d4d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+<a href="https://github.com/codex-gaming26/"><img alt="" src="https://komarev.com/ghpvc/?username=codex-gaming26" /></a>
